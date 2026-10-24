@@ -1,10 +1,7 @@
 # DIMZ PORTOFOLIO
 
 > Personal portfolio website by **DIMZ TAMVANS**, showcasing projects, creative works, web development experiments, and digital creations.
-
-🌐 **Live Demo:**
-https://info.dimz-wtf.web.id/
-
+> 
 ---
 
 ## About
@@ -32,14 +29,6 @@ The portfolio contains various projects ranging from websites and web tools to o
 * **HTML**
 * **CSS**
 * **JavaScript**
-
----
-
-## Preview
-
-Visit the portfolio:
-
-**[DIMZ PORTOFOLIO](https://info.dimz-wtf.web.id/)**
 
 ---
 
